@@ -1,0 +1,1015 @@
+Link: https://www.examtopics.com/discussions/google/view/117538-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 186
+Question: An organization is looking for a storage solution that will help them serve content to users worldwide. They need a solution that offers a high level of availability.
+
+What feature of Cloud Storage would they benefit from?
+Possible Answers:
+1. A. Multi-regional storage
+2. B. Global metadata
+3. C. Data encryption
+4. D. Object versioning
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/117540-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 192
+Question: What DevOps practice should an organization use when developing their application to help minimize disruption caused by bugs?
+Possible Answers:
+1. A. Pause production until all bugs have been eliminated
+2. B. Prioritize fixing large bugs during production because they are easier to review
+3. C. Implement small changes incrementally to reduce recovery time when bugs appear
+4. D. Implement large changes together to make rolling back easier when bugs appear
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/140347-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 193
+Question: An organization has been struggling to make operations more efficient.
+
+What site reliability engineering (SRE) best practice should the organization follow to increase efficiency?
+Possible Answers:
+1. A. Decrease over-reliance on data to make decisions.
+2. B. Assign exclusive production ownership to developers.
+3. C. Spend less time measuring outage impact.
+4. D. Focus on increasing toil automation.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/144402-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 194
+Question: An organization wants to ingest custom log data from GKE environments, virtual machines, and Google Cloud services.
+
+Which Google Cloud tool should the organization use?
+Possible Answers:
+1. A. Dialogflow
+2. B. Cloud Logging
+3. C. Cloud SDK
+4. D. Data Catalog
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139761-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 195
+Question: What makes Google Kubernetes Engine (GKE) an effective solution for developers working to resolve application errors?
+Possible Answers:
+1. A. It reduces the time needed to iterate on various solutions.
+2. B. It provides intelligent recommendations to optimize application development.
+3. C. It removes the need for containerizing applications.
+4. D. It stores application code on multiple servers to facilitate collaboration across silos.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139762-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 196
+Question: What is an organization responsible for when migrating from on-premises to the cloud?
+Possible Answers:
+1. A. Covering the cost of cloud service downtime
+2. B. Managing underlying network infrastructure
+3. C. Adapting to a pay-as-you-go cloud expenditure model
+4. D. Optimizing cloud storage systems
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/143895-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 197
+Question: An organization wants to duplicate critical system components to enhance reliability and mitigate single points of failure. Which design consideration should the organization use?
+Possible Answers:
+1. A. Redundancy
+2. B. Backups
+3. C. Latency
+4. D. Security
+==================================================
+Question Number: 198
+You deployed an application on a managed instance group in Compute Engine. The application accepts Transmission Control Protocol (TCP) traffic on port 389 and requires you to preserve the IP address of the client who is making a request. You want to expose the application to the internet by using a load balancer. What should you do?
+
+A. Expose the application by using an external TCP Network Load Balancer.
+B. Expose the application by using a TCP Proxy Load Balancer.
+C. Expose the application by using an SSL Proxy Load Balancer.
+D. Expose the application by using an internal TCP Network Load Balancer.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139763-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 199
+Question: An organization is running SQL Server on-premises and is struggling with capacity and management overhead. They want to modernize this database quickly by using Google products or services. What should the organization do?
+Possible Answers:
+1. A. Refactor applications to use a cloud first database like Firestore.
+2. B. Perform a managed database migration to Cloud SQL.
+3. C. Export old tables from SQL Server to Cloud Storage.
+4. D. Migrate all SQL Server data to BigQuery.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/144270-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 200
+Question: What is a benefit of the OpEx model for cloud security?
+Possible Answers:
+1. A. Organizations do not need to make upfront capital investments in cloud security.
+2. B. Organizations can deploy custom security hardware.
+3. C. Organizations do not need to configure any security settings for cloud resources.
+4. D. The cloud provider guarantees security.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139764-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 201
+Question: What is the benefit of using a serverless data processing pipeline service?
+Possible Answers:
+1. A. Full control over compute resources is provided.
+2. B. Processed data will not require analysis.
+3. C. Pipeline infrastructure is fully managed and scalable.
+4. D. Processed data is guaranteed to be free of errors.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/144271-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 202
+Question: What does the shift toward cloud computing represent for an organization's transformation?
+Possible Answers:
+1. A. An opportunity that is limited to large enterprises
+2. B. An opportunity to redefine existing business processes and services
+3. C. An opportunity that is only relevant to the IT department
+4. D. An opportunity to continue business as usual with new cost savings
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139765-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 203
+Question: An organization is concerned about the unlikely event that Google Cloud infrastructure is physically accessed by someone with malicious intent. How is data protected in Google Cloud?
+Possible Answers:
+1. A. Data is immediately deleted whenever an intrusion is detected.
+2. B. Data is stored on quantum computers with unbreakable encryption.
+3. C. Data is stored using robust encryption.
+4. D. Data is stored in random locations around the world to prevent it being found.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139766-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 204
+Question: An organization needs a flexible and scalable NoSQL database with strong web and mobile application support. Which Google Cloud product or service should the organization use?
+Possible Answers:
+1. A. Cloud Spanner
+2. B. Cloud Storage
+3. C. BigQuery
+4. D. Firestore
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/144651-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 205
+Question: An organization is using three cloud vendors to maximize their available deployment locations worldwide. They are using GKE Enterprise to deploy Kubernetes applications across different clouds. What type is this deployment?
+Possible Answers:
+1. A. On-premises
+2. B. Multi-cloud
+3. C. Hybrid-cloud
+4. D. Private cloud
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139767-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 206
+Question: An organization wants to transfer some of its data from Google Cloud. Which of these statements is true?
+Possible Answers:
+1. A. Customer data may not be transferred out of Google Cloud.
+2. B. Customers have full control of their data and may transfer it at any time.
+3. C. Outgoing data transfer must be enabled in the Google Cloud console.
+4. D. A technical support ticket must be raised with the correct department.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139768-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 207
+Question: A vacation home rental organization wants to predict the popularity of properties in their upcoming busy season. They do not have a data science team, and want to use their in-house database administration skills to create a machine learning model. What should the organization do?
+Possible Answers:
+1. A. Use custom training in Vertex AI with TensorFlow.
+2. B. Integrate pre-trained APIs into their application.
+3. C. Use BigQuery ML and create models using SQL.
+4. D. Build a model in AutoML using labeled data.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139769-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 208
+Question: An organization needs to rapidly scale its use of computing resources and honor its commitment to environmental sustainability.
+
+What should the organization do?
+Possible Answers:
+1. A. Refactor application software to use less energy.
+2. B. Use a public cloud provider with energy-efficient data centers.
+3. C. Use a carbon-neutral energy provider for an existing on-premises data center.
+4. D. Purchase energy-efficient servers for an existing on-premises data center.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139770-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 209
+Question: What is a defining feature of a non-relational database?
+Possible Answers:
+1. A. Reporting across multiple data sources
+2. B. A strictly enforced schema
+3. C. A flexible data model
+4. D. Queries that join multiple tables
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139771-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 210
+Question: What is an example of unstructured data?
+Possible Answers:
+1. A. Historical stock inventory
+2. B. Product ratings
+3. C. Customer orders
+4. D. Call center transcripts
+==================================================
+Question Number: 211
+An organization has migrated all workloads to the cloud and is reviewing their cloud security posture. Who is now responsible for securing the physical infrastructure of the data centers?
+
+A. The organization and the cloud service provider
+B. Third-party security service providers
+C. The cloud service provider
+D. The organization
+
+==================================================
+Question Number: 212
+An organization wants to lease the resources they need for their customized servers from a cloud provider on a pay-as-you-go basis, instead of paying one time for hardware.
+
+Which service model should they use?
+
+A. Hybrid cloud
+B. Software as a service
+C. Infrastructure as a service
+D. Platform as a service
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139772-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 213
+Question: An organization has petabytes of data gathered from a wide range of sources. They want to use the data for strategic analysis and to guide business decisions. What type of service should they use?
+Possible Answers:
+1. A. Multi cloud environment
+2. B. Virtual machine environment
+3. C. Hybrid cloud environment
+4. D. Container environment
+==================================================
+Question Number: 214
+An organization wants a purpose-built AI solution to increase efficiency and provide personalized interactions for their customer care team. Which Google Cloud AI solution should they use?
+
+A. Text-to-Speech API
+B. Cloud Talent Solution
+C. Document AI
+D. Contact Center AI
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139773-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 215
+Question: An organization wants to use an open source library with a flexible ecosystem of tools to create and train its own machine learning models. Which product or solution should the organization use?
+Possible Answers:
+1. A. Cloud Functions
+2. B. Apache Beam
+3. C. Dataflow
+4. D. TensorFlow
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139774-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 216
+Question: An organization wants to leverage cloud technologies but is concerned about vendor lock-in.
+
+What would mitigate this concern?
+Possible Answers:
+1. A. Open standards
+2. B. Database services
+3. C. Service level agreements
+4. D. Scalable infrastructure
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139775-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 217
+Question: An organization must identify and fix security vulnerabilities in its cloud infrastructure and applications. Which Google Cloud service should they use?
+Possible Answers:
+1. A. Security Command Center
+2. B. Google Cloud Armor
+3. C. Cloud Storage
+4. D. VPC networks
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139776-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 218
+Question: A cinema company wants to build a model to predict customer visit patterns for the coming year. They have three years of customer visit data across 300 theaters; however, the data has been stored in different formats by different theaters. They must train the ML model. What should they do?
+Possible Answers:
+1. A. Use the last year of data so there are fewer inconsistencies for the model to handle.
+2. B. Transform the data into a consistent format.
+3. C. Group different format types and train a different model for each group.
+4. D. Choose an ML model type that can process different formats of input data.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139777-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 219
+Question: Within Google’s Site Reliability Engineering framework, which concept measures how well a system is performing?
+Possible Answers:
+1. A. Service-level agreement
+2. B. Service-level indicator
+3. C. Error reporting
+4. D. Service-level objective
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139778-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 220
+Question: What is the typical cloud spending behavior of most organizations?
+Possible Answers:
+1. A. Decentralized and variable
+2. B. Centralized and variable
+3. C. Decentralized and fixed
+4. D. Centralized and fixed
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139923-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 221
+Question: An organization is developing a new container-based application. They do not know how popular the application will be when launched and they do not want to pay for idle infrastructure resources. Which benefit of serverless computing will address this concern?
+Possible Answers:
+1. A. Disaster recovery
+2. B. Reduced development costs
+3. C. Scalability
+4. D. Built-in security
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139780-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 222
+Question: How does the resource hierarchy in Google Cloud help organizations implement security policies?
+Possible Answers:
+1. A. Policies can be applied at the folder level and are inherited by projects inside the folder.
+2. B. Projects in the resource hierarchy are not affected by security policies.
+3. C. Policies can only be applied at the organization level and affect all projects.
+4. D. Policies can only be applied to individual projects.
+==================================================
+Question Number: 223
+An organization is considering the use of managed services when migrating to the cloud. Which routine tasks are typically provided automatically by a managed services platform?
+
+A. Managing user access
+B. Patching and upgrades
+C. Data archiving
+D. Cost optimization
+
+==================================================
+Question Number: 224
+An organization has recently completed a migration from on-premises to Google Cloud.
+
+How has cost management been affected?
+
+A. Costs will primarily shift from CapEx to OpEx.
+B. Costs will primarily shift from OpEx to CapEx.
+C. Cost management will stay the same, but the total cost of ownership (TCO) will be lower.
+D. Cost management will stay the same, but the total cost of ownership (TCO) will be higher.
+
+==================================================
+Question Number: 225
+An organization wants to access a software application from a cloud vendor without the need to manage their own servers or write their own code.
+
+Which service model does this represent?
+
+A. Infrastructure as a service
+B. Platform as a service
+C. Software as a service
+D. Functions as a service
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139781-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 226
+Question: An organization wants to build a data pipeline to transform its data so it can be reconciled in a data warehouse. The solution must be scalable and require little or no management. Which Google product or service should the organization choose?
+Possible Answers:
+1. A. Cloud Bigtable
+2. B. Cloud Storage
+3. C. Pub/Sub
+4. D. Dataflow
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139782-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 227
+Question: When is data automatically encrypted in Google Cloud?
+Possible Answers:
+1. A. When it is in transit only,
+2. B. When it is at rest and in transit.
+3. C. Data is not automatically encrypted by default.
+4. D. When it is at rest only.
+==================================================
+Question Number: 228
+An organization must verify the identity of a user seeking access to a system. Which aspect of cloud identity management does this action describe?
+
+A. Authorization
+B. Authentication
+C. Auditing
+D. Encrypting
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139784-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 229
+Question: An organization is running Kubernetes applications across multiple cloud environments. They want a consistent and centralized management platform. Which service should they choose?
+Possible Answers:
+1. A. Cloud Functions
+2. B. GKE Enterprise
+3. C. Cloud Run
+4. D. Compute Engine
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139785-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 230
+Question: An organization wants to collect and store all logs generated by applications running in Google Cloud. Which service should they use?
+Possible Answers:
+1. A. Cloud Profiler
+2. B. Cloud Monitoring
+3. C. Cloud Trace
+4. D. Cloud Logging
+==================================================
+Question Number: 231
+
+What is the benefit of using a unified cloud data solution?
+
+A. Data will always cost less to store.
+B. Data can be automatically secured from external threats.
+C. Data will always be backed up and cannot be lost or deleted.
+D. Data can enable innovation because it's no longer siloed.
+
+==================================================
+Question Number: 232
+
+An organization stores its important industry data in a relational database. They want to create a new revenue stream by enabling third parties to use that data in their applications. Which cloud first approach should the organization choose?
+
+A. Add third-party users to their database.
+B. Offer chargeable downloads of archived data.
+C. Expose data through a chargeable API.
+D. Transfer data into a non-relational database.
+
+
+==================================================
+Question Number: 233
+
+Which scenario is a good use case for machine learning?
+
+A. Classifying data with no prior examples
+B. Tasks that require human experience and intuition
+C. Creating customer recommendations
+D. Solving ethical dilemmas
+
+
+==================================================
+Question Number: 234
+
+An organization needs to increase the speed at which they can train machine learning models. Which domain-specific hardware is designed for this task?
+
+A. Bare Metal Solution
+B. Preemptible or Spot VMs
+C. Cloud TPUs
+D. Containers
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/148075-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 235
+Question: An organization has migrated several large databases to the cloud. It wants to increase the value of its data, improve cost controls and strengthen regulatory compliance. What should the organization do?
+Possible Answers:
+1. A. Delete data stored for over a year.
+2. B. Export relational data to modern NoSQL databases.
+3. C. Create monthly reports on data access and uses.
+4. D. Establish an effective data governance program.
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139787-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 236
+Question: An organization has hired a team of data scientists and developers. They want to create unique value in their business by coding an advanced machine learning model in Vertex AI Workbench. Which service should the organization use to train the model?
+Possible Answers:
+1. A. Custom training
+2. B. AutoML
+3. C. Compute Engine
+4. D. Prebuilt APIs
+==================================================
+Question Number: 237
+
+An organization is concerned that one of their applications takes too long to return a result. According to Google’s “Four Golden Signals,” which signal measures this aspect of the application’s performance?
+
+A. Saturation
+B. Errors
+C. Latency
+D. Traffic
+
+==================================================
+Question Number: 238
+
+An organization is transforming their raw data into a format that can be used to derive business insights. Which step of the data value chain does this action represent?
+
+A. Data analysis
+B. Data collection
+C. Data storage
+D. Data processing
+
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139788-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 239
+Question: An organization has a small development team that has created a web application which runs in a single container. They need a simple, serverless, and scalable way to host their container. Which Google service should the organization use?
+Possible Answers:
+1. A. Compute Engine
+2. B. App Engine
+3. C. Kubernetes Engine
+4. D. Cloud Run
+==================================================
+Question Number: 240
+
+An organization wants a centralized view of their cloud infrastructure in a fully managed system that includes uptime checks. Which Google Cloud service should they use?
+
+A. Cloud Trace
+B. Cloud Monitoring
+C. Cloud Logging
+D. Cloud Profiler
+
+
+==================================================
+Question Number: 241
+
+An organization wants to migrate a workload to the cloud without changing the application code or architecture. Which migration path describes this approach?
+
+A. Rehosted
+B. Reimagined
+C. Replatformed
+D. Refactored
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/139786-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 242
+Question: Which scenario uses machine learning to unlock business value from unstructured data?
+Possible Answers:
+1. A. Analyzing tabular records of product defects to predict future maintenance cycles.
+2. B. Recommending new products based on previous purchases.
+3. C. Monitoring financial transactions to identify potential fraud and risk.
+4. D. Determining customer sentiments from call center voice recordings.
+==================================================
+Question Number: 243
+
+An organization wants to build custom machine learning models. They require a managed platform that provides services to gather data, build models, and then deploy and monitor those models. Which service should they use?
+
+A. Document AI
+B. Natural Language API
+C. Kubernetes Engine
+D. Vertex AI
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/147835-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 244
+Question: In Google’s cloud security model, how does availability contribute to a robust security posture for data?
+Possible Answers:
+1. A. By restricting data access to authorized users
+2. B. By ensuring data meets industry standards
+3. C. By checking that data is accurate and trustworthy
+4. D. By ensuring data is reliable and accessible
+==================================================
+Question Number: 245
+
+How does the legal concept of data sovereignty affect data?
+
+A. Data is subject to the laws and regulations of the country where it resides.
+B. A country has the right to access the data generated within its borders.
+C. An individual has the right to control their personal data.
+D. Data must always be encrypted in transit and at rest.
+
+==================================================
+Question Number: 246
+
+An organization is concerned about their cloud costs. They want to be informed when their spending exceeds a specific threshold, rather than waiting to see their bill at the end of the month. What should the organization do?
+
+A. Pause virtual machines during non-business hours.
+B. Configure a budget threshold rule and alert.
+C. Adjust project resource quota policies.
+D. Use historical cost data to predict future overspend.
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/147834-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 247
+Question: An organization is running critical workloads in production and requires a Google Cloud support service with fast response times and a dedicated Technical Account Manager. Which customer care service level should the organization choose?
+Possible Answers:
+1. A. Enhanced
+2. B. Basic
+3. C. Premium
+4. D. Standard
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/147833-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 248
+Question: A real estate organization processes photos of properties uploaded by their agents to an internal application. They must manually check and remove photos that contain personally identifiable information like passports and credit cards. They want a solution that their developer can use to integrate with their app as quickly as possible. Which solution should they use?
+Possible Answers:
+1. A. Pre-trained APIs
+2. B. AutoML
+3. C. Custom training
+4. D. BigQuery ML
+==================================================
+
+Question Number: 249
+
+What is generative AI?
+
+A. A machine learning model for language translation
+B. A specific field of AI that can be used to create content
+C. An umbrella term that includes all types of machine learning algorithms
+D. An AI model for labeling images
+
+==================================================
+
+Question Number: 250
+
+What is a defining function of streaming analytics?
+
+A. Processing data records continuously
+B. Processing data records in batches
+C. Processing a one-off data backfill
+D. Accessing data with high latency
+
+==================================================
+
+Question Number: 251
+
+An organization is deciding on the layout of their resource hierarchy in Google Cloud. They have several projects within a folder. What will happen when user access policies are applied to the folder?
+
+A. The policy will be inherited by the projects in the folder but will not affect their resources.
+B. The policy will be inherited by the projects and their resources within the folder.
+C. The policy will be applied to all folders within the organization.
+D. The policy applies to the folder only, and will not be inherited by any projects.
+
+==================================================
+
+Question Number: 252
+
+An organization has an ecommerce application that requires a cost-effective, transactional database. The application will only serve customers in a single region. Which service should they use?
+
+A. BigQuery
+B. Cloud Bigtable
+C. Cloud Spanner
+D. Cloud SQL
+
+==================================================
+
+Question Number: 253
+
+An organization wants to control what types of network traffic are allowed to enter and leave its network and access its applications. Which security measure should the organization use?
+
+A. 2-Step Verification
+B. Privileged access
+C. Encryption keys
+D. Firewall rules
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/147832-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 254
+Question: An organization has a large archive of unstructured data, including video and audio files. Which storage solution should the organization use?
+Possible Answers:
+1. A. Cloud Spanner
+2. B. Cloud Storage
+3. C. Cloud Bigtable
+4. D. Cloud SQL
+==================================================
+
+Question Number: 255
+
+A retail organization is training a model to recommend products to customers for an ecommerce website. The model was trained on previous purchases, but did not include demographic information on each buyer. What dimension of the data is responsible for the model's poor performance?
+
+A. Validity
+B. Accuracy
+C. Timeliness
+D. Completeness
+
+==================================================
+
+Question Number: 256
+
+An organization has collected petabytes of historical data. They need an advanced analysis solution that is fast, scalable, and fully managed. Which Google product or service should the organization use?
+
+A. BigQuery
+B. Cloud SQL
+C. Firestore
+D. Cloud Storage
+
+==================================================
+
+Question Number: 257
+
+What is a benefit of Google’s purpose-built servers compared to standard servers?
+
+A. They are optimized for specific tasks making them more efficient.
+B. They are backward compatible with legacy disk drives.
+C. They are cheaper to build than standard servers.
+D. They run software that cannot be deployed on standard servers.
+
+==================================================
+
+Question Number: 258
+
+What is the Site Reliability Engineering (SRE) term for an organization s desired level of reliability and performance?
+
+A. Service-level objective
+B. Enhanced support
+C. Scalable infrastructure
+D. Service-level indicator
+
+==================================================
+
+Question Number: 259
+
+An organization is operating multiple workloads in containers and requires full control of how the workloads are configured. Which Google Cloud service should the organization use?
+
+A. Cloud Run
+B. Compute Engine
+C. Kubernetes Engine
+D. Cloud Functions
+
+==================================================
+
+Question Number: 260
+
+When customer data is uploaded to Google Cloud, who owns the data?
+
+A. A third party
+B. The customer and Google share ownership
+C. Google
+D. The customer
+
+==================================================
+
+Question Number: 261
+An organization is deploying their servers to the cloud using the infrastructure as a service model.
+
+In the shared responsibility model, what is the cloud provider responsible for?
+
+A. Data access policies
+B. Security of the operating system
+C. Security of the software
+D. Physical security
+
+==================================================
+
+Question Number: 262
+
+An organization runs a batch data analysis workload on a virtual machine (VM). The workload can be easily restarted without losing work, and is not time critical. Organizations must choose the lowest cost option to run the workload. What option should they choose?
+
+A. A Preemptible or Spot VM on Compute Engine
+B. A custom VM in a pay-as-you-go model on Compute Engine
+C. A standard VM in a pay-as-you-go model on Compute Engine
+D. A Cloud Function with a small memory limit
+
+==================================================
+
+Question Number: 263
+
+Customers are reporting very high latencies when accessing an application from the United States. The application is currently running in a single region in Europe.
+
+What should the organization do?
+
+A. Set up a new billing account in the United States.
+B. Run the application in additional zones in the European region.
+C. Run the application in additional regions in Europe.
+D. Run a replica of the application in a region in the United States.
+
+==================================================
+
+Question Number: 264
+
+An organization needs protection against distributed denial-of-service (DDoS) attacks. Which Google Cloud service should the organization use?
+
+A. Google Cloud Armor
+B. Cloud Build
+C. Cloud VPN
+D. Security Command Center
+
+==================================================
+
+Question Number: 265
+An organization needs to store daily transactional data such as customer records and purchase history. The data follows a consistent schema and is cross-referenced. Which type of service should the organization use?
+
+A. Non-relational database
+B. Data warehouse
+C. Relational database
+D. Data lake
+
+==================================================
+
+Question Number: 266
+
+
+==================================================
+
+Question Number: 267
+
+A manufacturing organization has a large collection of images labeled as intact or defective parts. They want to use this data to build a simple solution to detect faulty parts on their production line. They have no data science expertise. Which solution should they use?
+
+A. Pre-trained APIs
+B. Document AI
+C. AutoML
+D. Discovery AI for Retail
+
+==================================================
+
+Question Number: 268
+
+An organization has a large dataset that contains text transcripts of conversations between their customers and service representatives. They want an automated solution to identify the topics their customers care most about. Which service should the organization use?
+
+A. Vision API
+B. Speech-to-Text API
+C. Cloud Translation API
+D. Natural Language API
+
+==================================================
+
+Question Number: 269
+
+You are a program manager for a team of developers who are building an event-driven application to allow users to follow one another's activities in the app. Each time a user adds himself as a follower of another user, a write occurs in the real-time database.
+The developers will develop a lightweight piece of code that can respond to database writes and generate a notification to let the appropriate users know that they have gained new followers. The code should integrate with other cloud services such as Pub/Sub, Firebase, and Cloud APIs to streamline the orchestration process. The application requires a platform that automatically manages underlying infrastructure and scales to zero when there is no activity.
+Which primary compute resource should your developers select, given these requirements?
+A. Cloud Functions
+B. Compute Engine
+C. Google Kubernetes Engine
+D. App Engine flexible environment
+
+==================================================
+
+Question Number: 270
+
+==================================================
+
+Question Number: 271
+An organization is concerned about the risk of data loss that may occur due to hardware failures or cyber attacks. They want to restore their systems to a previous state if such an event occurs. What should the organization do?
+
+A. Set service level objectives (SLOs).
+B. Use Cloud Monitoring.
+C. Back up data regularly.
+D. Enable autoscaling.
+
+==================================================
+
+Question Number: 272
+
+An organization processes batch sales data at the end of every month to analyze sales trends and derive business insights. They want to improve accuracy and make near real-time decisions. What should the organization do?
+
+A. Change from a relational database to a NoSQL database.
+B. Filter the data so reports are generated faster.
+C. Switch from batch processing to stream processing.
+D. Process batch reports weekly instead of monthly.
+
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/145369-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 273
+Question: An information security organization must ensure that its service providers have ISO 27001 certification. They must also access supporting documentation. Which Google Cloud tool should they use?
+Possible Answers:
+1. A. Compliance Reports Manager
+2. B. Security Command Center
+3. C. Network Intelligence Center
+4. D. Cloud Monitoring
+==================================================
+
+Question Number: 274
+An organization wants to adopt the advanced machine learning capabilities of the Google Cloud. However, regulations require data to be stored in an on-premises data center. Which approach should the organization use?
+
+A. A hybrid-cloud approach
+B. A multi-cloud approach
+C. A public-cloud approach
+D. A private-cloud approach
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/146751-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 275
+Question: An organization wants to run their custom application in the cloud in a flexible and scalable way without managing any infrastructure. Which service model should they use?
+Possible Answers:
+1. A. Infrastructure as a service
+2. B. Platform as a service
+3. C. Software as a service
+4. D. Network as a service
+==================================================
+Link: https://www.examtopics.com/discussions/google/view/148374-exam-professional-data-engineer-topic-1-question-260-discussion/
+Question Number: 276
+Question: An organization is using Compute Engine and wants to receive sustained-use discounts. What should the organization do?
+Possible Answers:
+1. A. Choose preemptible or spot instances when creating virtual machines.
+2. B. Choose low-powered virtual machines.
+3. C. Nothing. Sustained use discounts are automatically applied.
+4. D. Commit to virtual machine usage for a one or three-year period.
+==================================================
+
+Question Number: 277
+An organization is evaluating its defenses against cyber security threats and is concerned about the risks of social engineering by cyber criminals. How might these attacks happen?
+
+A. SQL injection attacks
+B. Physical damage to hardware
+C. Phishing emails
+D. Distributed denial-of-service attacks
+
+==================================================
+
+Question Number: 278
+An organization has a large VMWare environment that they want to migrate to the cloud. They want to retain existing operational processes and tools. Which Google Cloud service should the organization use?
+
+A. Compute Engine
+B. Google Cloud VMware Engine
+C. VMWare vSphere
+D. Bare Metal Solution
+
+==================================================
+
+Question Number: 279
+
+An organization is building advanced machine learning models in Google Cloud by using TensorFlow. They want to develop their models faster with purpose-built hardware. Which solution should the organization use?
+
+A. TPUs
+B. CPUs
+C. CPUs
+D. GPUs
+
+==================================================
+
+Question Number: 280
+
+A financial organization has many customers who close their accounts every year. The organization wants to use data and AI to identify at-risk customers, so they can retain customers by offering discounts and improved services. What should the organization do?
+
+A. Create a dashboard of previous customers that have exited, and look for obvious correlations in the visualization.
+B. Create a ML model based on the demographics and activities of previous customers that exited.
+C. Create a survey for all customers to identify their current level of satisfaction.
+D. Create a report based on last year’s customer feedback.
+
+==================================================
+
+Question Number: 281
+What is the purpose of an application programming interface (API)?
+
+A. To provide a set of instructions that allow computer programs to communicate with each other
+B. To provide cloud plugins for integrated development environments
+C. To connect networks from different cloud providers
+D. To manage multiple containerized workloads
+
+==================================================
+
+Question Number: 282
+
+An organization supplies electric car chargers in a nationwide network. They store customer and charging data in BigQuery. They want to efficiently upgrade and maintain their network to reduce waste and achieve their sustainability goals. How can Google Cloud services help the organization?
+
+A. Secure data access by using Identity and Access Management.
+B. Provide access to third-party developers by creating an API using Apigee.
+C. Create a model in BigQuery to predict future maintenance schedules.
+D. Move data from BigQuery to Cloud Storage to reduce storage costs.
+
+==================================================
+
+Question Number: 283
+
+==================================================
+
+Question Number: 284
+
+==================================================
+
+Question Number: 285
+
+An organization is using new technologies to change its business processes and culture to develop new customer experiences and adapt to market dynamics.
+
+What is the name of this approach?
+
+A. Digital transformation
+B. Data center migration
+C. Operations optimization
+D. User personalization
+
+==================================================
+Question Number: 286
+An organization is developing applications by using Kubernetes. They want their teams to spend more time developing rather than managing clusters. Which Google Cloud service should the organization choose?
+
+A. GKE Autopilot
+B. Compute Engine
+C. Cloud Run
+D. GKE Standard
+
+==================================================
+
+Question Number: 287
+
+Your organization is developing and deploying an application on Google Cloud. Tracking your Google Cloud spending needs to stay as simple as possible.
+What should you do to ensure that workloads in the development environment are fully isolated from production workloads?
+A. Apply a unique tag to development resources
+B. Associate the development resources with their own network
+C. Associate the development resources with their own billing account
+D. Put the development resources in their own project
+
+==================================================
+
+Question Number: 288
+
+==================================================
+
+Question Number: 289
+
+==================================================
+
+Question Number: 290
+
+==================================================
+
+Question Number: 291
+
+==================================================
+
+Question Number: 292
+
+Your organization is developing an application that will manage payments and online bank accounts located around the world. The most critical requirement for your database is that each transaction is handled consistently. Your organization anticipates almost unlimited growth in the amount of data stored.
+Which Google Cloud product should your organization choose?
+A. Cloud SQL
+B. Cloud Storage
+C. Firestore
+D. Cloud Spanner
+
+==================================================
+
+Question Number: 293
+An organization runs their application on a virtual machine, but every time they want to edit specific features, they have to bring the system offline to update the applica-tion. What would be a more appropriate solution for their app?
+A. GPUs
+B. Containers
+C. Hypervisors
+D. Solid State Disk
+==================================================
+
+Question Number: 294
+
+==================================================
+
+Question Number: 295
+Your organization is developing and deploying an application on Google Cloud. Tracking your Google Cloud spending needs to stay as simple as possible.
+What should you do to ensure that workloads in the development environment are fully isolated from production workloads?
+A. Apply a unique tag to development resources
+B. Associate the development resources with their own network
+C. Associate the development resources with their own billing account
+D. Put the development resources in their own project
+
+==================================================
+
+Question Number: 296
+
+==================================================
+
+Question Number: 297
+
+The government has mandated that companies in a particular section of healthcare must retain all the data they collect for a period of 10 years in case an audit needs to be done. Your client, who is in that industry, needs to follow regulations. In addition, your client wants to do an analysis of the data quite frequently in the first year. They also don't want to be liable for any data beyond year 10. What would recommend for your customer?
+A. Use Cloud Storage with nearline storage in year one and Coldline storage thereaf-ter. Use Object lifecycle management to move between storage types and delete them after 10 years.
+B. Use Cloud Storage with standard storage in year one and Coldline storage there-after. Set a Cloud Scheduler trigger for 1 year to change storage types and 10 years to delete the data.
+C. Use Cloud Storage with standard storage in year one and archival storage thereaf-ter. Use Object lifecycle management to move between storage types and delete them after 10 years.
+D. Use Cloud Storage with standard storage in year one and Coldline storage there-after. Set a Cloud Tasks to trigger for 1 year to change storage types and 10 years to delete the data.
+
+==================================================
+
+Question Number: 298
+
+==================================================
+
+Question Number: 299
+
+==================================================
+Preguntas en el txt: 108
